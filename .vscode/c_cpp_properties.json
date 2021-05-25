@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/leo/trr_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/leo/vins_ws/src/VINS-Fusion/camera_models/include/**",
+        "/home/leo/trr_ws/src/ground_station/simulation/cascade_control/include/**",
+        "/home/leo/trr_ws/src/ground_station/utils/DecompRos/decomp_ros_utils/include/**",
+        "/home/leo/trr_ws/src/ground_station/simulation/mission_template/include/**",
+        "/home/leo/trr_ws/src/ground_station/polyhedron_generator/include/**",
+        "/home/leo/trr_ws/src/ground_station/utils/pose_utils/include/**",
+        "/home/leo/trr_ws/src/ground_station/utils/quadrotor_msgs/include/**",
+        "/home/leo/trr_ws/src/ground_station/simulation/router/include/**",
+        "/home/leo/trr_ws/src/ground_station/simulation/so3_quadrotor_simulator/include/**",
+        "/home/leo/trr_ws/src/ground_station/simulation/state_machine/include/**",
+        "/home/leo/trr_ws/src/ground_station/global_planner/include/**",
+        "/home/leo/trr_ws/src/ground_station/utils/uav_utils/include/**",
+        "/home/leo/zed2_datasets_ws/src/zed2_chatter/include/**",
+        "/home/leo/zed2_datasets_ws/src/zed2_datasets/include/**",
+        "/home/leo/listener_ws/src/zed_listener/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
