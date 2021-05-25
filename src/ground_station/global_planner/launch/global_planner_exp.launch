@@ -24,7 +24,7 @@
       <param name="read_path"   value="false" /> 
 
       <param name="optimization/poly_order"  value="$(arg poly_order)"     /> 
-      <param name="optimization/min_order"   value="2.0"   /> 
+      <param name="optimization/min_order"   value="3.0"   /> 
       
       <param name="map/x_size"       value="$(arg map_size_x)"/>
       <param name="map/y_size"       value="$(arg map_size_y)"/>
