@@ -6,7 +6,7 @@
     <remap from="~uav_odom_sim" to="/drone_1/visual_slam/odom"/>
     <param name="start_x"   type="double" value=" 0.0"/>
     <param name="start_y"   type="double" value=" 0.0"/>
-    <param name="start_z"   type="double" value=" 1.5"/>
+    <param name="start_z"   type="double" value=" 0.5"/>
     <param name="start_yaw" type="double" value="0.0"/>
 
     <param name="min_z"   type="double" value=" 0.0"/>
@@ -45,7 +45,7 @@
   <param name="color/g"          value="0.0"/>
   <param name="color/b"          value="0.0"/>
   <param name="covariance_scale" value="100.0"/>
-  <param name="drone_scale"      value="0.4"/>
+  <param name="drone_scale"      value="0.8"/>
   <param name="id"      value="1"/>
 </node>
 
